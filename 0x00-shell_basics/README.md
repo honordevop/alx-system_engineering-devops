@@ -3,3 +3,8 @@ Description of each script file in this repository
 0-current_working_directory : This prints absolute pathname of the current working directory.
 1-listit : Display the content list of your present working directory.
 2-bring_me_home: Changes the working directory to the user's home directory.
+3-listfiles: Displays current directory content in long format.
+4-listmorefiles : Displays current directory contents, including hidden files.
+5-listfilesdigitonly : Display current directory content(including hidden files) in long format, with user and group ID displayed numerically.
+6-firstdirectory : Create a directory name my_first_directory in /tmp
+7-movethatfile : move file
