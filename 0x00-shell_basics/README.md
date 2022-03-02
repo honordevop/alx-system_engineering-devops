@@ -8,3 +8,7 @@ Description of each script file in this repository
 5-listfilesdigitonly : Display current directory content(including hidden files) in long format, with user and group ID displayed numerically.
 6-firstdirectory : Create a directory name my_first_directory in /tmp
 7-movethatfile : move file
+8-firstdelete : delete file name betty in stated directory
+9-firstdirdeletion : Delete the directory created in #6 above
+10-back : change working directory to previous one.
+11-lists : list all file in current working directory, parent directory and /boot directory
