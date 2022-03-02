@@ -12,3 +12,6 @@ Description of each script file in this repository
 9-firstdirdeletion : Delete the directory created in #6 above
 10-back : change working directory to previous one.
 11-lists : list all file in current working directory, parent directory and /boot directory
+12-type_file : print the specified file type
+13-symbolic_links : Added symbolic link
+14-copy_html : Copy only files with .html ext that are not in the destination dir into the destination dir
